@@ -10,7 +10,7 @@
   "dependencies": {
     "@IntusFacultas/button": "^1.1.0",
     "@hapi/hoek": "^9.0.4",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bootstrap-vue": "^2.15.0",
     "cache-loader": "^4.1.0",
     "core-js": "^3.6.5",
